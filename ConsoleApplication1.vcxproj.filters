@@ -18,5 +18,8 @@
     <ClCompile Include="Pass-by-X.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="DanglingPointerExercise.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
